@@ -1,80 +1,136 @@
-<div align="center">
+# Haderson Alexander Osorio - Halexoh
 
-# Haderson Alexander Osorio
-### Data Scientist | Biological Engineer
+**Data Analyst & Biological Engineer** - Medellin, Colombia to Nordrhein-Westfalen, DE
 
-*Converting industrial data into strategic decisions — 8+ years in high-impact environments*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-alexanderosorioanalytics-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alexanderosorioanalytics/)
-[![GitHub](https://img.shields.io/badge/GitHub-Halexoh-181717?style=for-the-badge&logo=github)](https://github.com/Halexoh)
-[![AWS](https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws)](https://aws.amazon.com)
-
-![Profile views](https://komarev.com/ghpvc/?username=Halexoh&color=0077B5&style=for-the-badge)
-
-</div>
+Turning industrial and operational data into decisions that actually change numbers.
+8+ years in coatings, chemicals & technical sales - Applying that domain depth to data roles in Germany.
 
 ---
 
-## About Me
+## Tech stack
 
-Data Scientist with solid experience in industrial environments (manufacturing, chemical distribution, applied research). My differential: I understand both the data and the business behind it.
-
-- Background: Biological Engineering + Data Analytics Specialization
-- Experience: AkzoNobel · Pinturas Prolac · Barentz · Universidad Nacional de Colombia
-- Location: Medellin, Colombia · Available for remote LATAM / Global roles
-- Languages: Spanish (native) · English (C1) · German (B2)
-
----
-
-## Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+```
+Languages      Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+               SQL, R, DAX
+BI & Reporting Power BI, Streamlit, Jupyter Notebook
+Data Tools     Excel (advanced), Google Sheets, Minitab, DuckDB, SQLite
+Cloud & Other  AWS (AI Practitioner), Git
+```
 
 ---
 
-## Featured Projects
+## Featured projects
 
-| Project | Description | Stack | Repo |
-|---|---|---|---|
-| Brazilian E-commerce Analytics | EDA + ML on 94K orders. Delivery delay is the #1 driver of low reviews | Python, Scikit-learn, Seaborn | https://github.com/Halexoh/brazilian-ecommerce |
-| Paint R&D Versioning App | Streamlit app for industrial paint formulation tracking. Calculates PVC, solids, pigment/resin ratio | Python, Streamlit, SQLite | https://github.com/Halexoh/paint-rnd-app |
-| Time Series Forecasting | Demand prediction with historical data | Python, statsmodels, Prophet | In development |
-| SQL Analytics | Business queries: window functions, CTEs, aggregations | SQL, DuckDB | In development |
+### Brazilian E-commerce Analytics
+EDA + ML analysis on **94,000+ orders** from the Olist dataset.
+Key finding: delivery delay is the **#1 driver of low review scores**.
+Delivered actionable logistics recommendations backed by feature importance analysis.
+`Python` `Scikit-learn` `Seaborn` `Pandas` `EDA` `Classification`
+
+---
+
+### Paint R&D Versioning App
+Streamlit app for **industrial paint formulation versioning and comparison**.
+Calculates PVC, solids content, and pigment/resin ratio.
+`Python` `Streamlit` `SQLite` `Industrial Chemistry`
+
+---
+
+## Work highlights
+
+| Role | Company | Impact |
+|------|---------|--------|
+| Technical Manager | Pinturas Prolac | -12% production costs via multivariate analysis |
+| Tech Service Specialist | Andercol - AkzoNobel | Power BI KPI dashboards, LATAM data integration |
+| Account Manager | Barentz | Market analysis, import DB, pricing strategy |
+| Junior Researcher | UNAL - Colciencias | Statistical analysis in R, biological datasets |
 
 ---
 
 ## Certifications
 
-- AWS AI Practitioner — AWS x Udacity 2026
-- Analyze Data using AI with PartyRock — AWS x Udacity 2026
-- Build Your First AI Productivity App — AWS x Udacity 2026
+- Mathematics for Machine Learning Specialization - Imperial College London / Coursera - Feb 2026
+- - AWS AI Practitioner - Amazon Web Services - 2026
+  - - SQL Intermediate - HackerRank - May 2026
+    - - Goethe-Zertifikat B2 - Goethe-Institut - Aug 2023
+     
+      - ---
 
----
+      ## Languages
 
-## Real Impact
+      `Spanish` native - `English` C1 - `Deutsch` B2 (Goethe-Zertifikat)
 
-- 12% reduction in production costs via multivariate analysis
-- Managed key client (~50% of total consumption) with KPI dashboards in Power BI
-- 80% portfolio homologation driven by technical data analysis
-- LATAM regional data coordination integrating multiple markets
+      ---
 
----
+      ## Currently
 
-## GitHub Stats
+      - Work authorization: **Genehmigung zur Fuehrung der Berufsbezeichnung Ingenieur** per IngG NRW, Bezirksregierung Arnsberg, in progress
+      - - Open to **Data Analyst / Data Scientist** roles in Germany and EU - remote or on-site
+        - - Preparing for German C1
+         
+          - ---
 
-![Halexoh GitHub stats](https://github-readme-stats.vercel.app/api?username=Halexoh&show_icons=true&theme=github_dark&hide_border=true)
+          [![LinkedIn](https://img.shields.io/badge/LinkedIn-alexanderosorioanalytics-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/alexanderosorioanalytics)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Halexoh&layout=compact&theme=github_dark&hide_border=true)
+          halexoh@gmail.com
 
----
+          ---
 
-*"Data is the bridge between technical expertise and strategic decision-making."*
+          # DE - Profil auf Deutsch
+
+          **Datenanalyst & Bioingenieur** - Medellin, Kolumbien nach Nordrhein-Westfalen
+
+          Industrielle und operative Daten in Entscheidungen uebersetzen, die Zahlen wirklich veraendern.
+          8+ Jahre in Beschichtung, Chemie und technischem Vertrieb.
+
+          ---
+
+          ## Technisches Profil
+
+          ```
+          Sprachen       Python (Pandas, NumPy, Scikit-learn), SQL, R, DAX
+          BI & Reporting Power BI, Streamlit, Jupyter Notebook
+          Datenwerkzeuge Excel (fortgeschritten), Minitab, DuckDB, SQLite
+          Cloud          AWS (AI Practitioner), Git
+          ```
+
+          ---
+
+          ## Ausgewaehlte Projekte
+
+          ### Brasilianische E-Commerce-Analyse
+          EDA und ML-Analyse von **94.000+ Bestellungen** aus dem Olist-Datensatz.
+          Wichtigste Erkenntnis: **Lieferverzoegerungen** sind der entscheidende Treiber niedriger Bewertungen.
+          `Python` `Scikit-learn` `Seaborn` `Pandas` `Klassifikation`
+
+          ---
+
+          ### Versionierungsanwendung fuer Lacke
+          Streamlit-App zur **Versionierung industrieller Lackformulierungen**.
+          Berechnet PVK, Festkoerpergehalt und Pigment-/Harzverhaeltnis.
+          `Python` `Streamlit` `SQLite` `Industriechemie`
+
+          ---
+
+          ## Berufserfahrung - Highlights
+
+          | Stelle | Unternehmen | Ergebnis |
+          |--------|-------------|----------|
+          | Technischer Leiter | Pinturas Prolac | -12% Produktionskosten durch multivariate Analyse |
+          | Spezialist Techn. Service | Andercol - AkzoNobel | Power BI KPI-Dashboards, LATAM Datenintegration |
+          | Account Manager | Barentz | Marktanalyse, Importdatenbanken, Preisstrategie |
+          | Wissenschaftlicher Mitarbeiter | UNAL - Colciencias | Statistische Analyse in R |
+
+          ---
+
+          ## Aktuell
+
+          - **Genehmigung zur Fuehrung der Berufsbezeichnung Ingenieur** gem. IngG NRW, Bezirksregierung Arnsberg, in Bearbeitung
+          - - Offen fuer **Datenanalyst / Data Scientist** Stellen in Deutschland - remote oder vor Ort
+            - - Vorbereitung auf Deutsch C1
+             
+              - ---
+
+              [![LinkedIn](https://img.shields.io/badge/LinkedIn-alexanderosorioanalytics-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/alexanderosorioanalytics)
+
+              halexoh@gmail.com
