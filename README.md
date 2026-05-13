@@ -71,6 +71,7 @@ Calculates PVC, solids content, and pigment/resin ratio.
           - ---
 
           [![LinkedIn](https://img.shields.io/badge/LinkedIn-alexanderosorioanalytics-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/alexanderosorioanalytics)
+          [![HackerRank](https://img.shields.io/badge/HackerRank-SQL_Intermediate-2EC866?style=flat&logo=hackerrank)](https://www.hackerrank.com/certificates/0EED0848B0D2)
 
           halexoh@gmail.com
 
@@ -134,3 +135,4 @@ Calculates PVC, solids content, and pigment/resin ratio.
               [![LinkedIn](https://img.shields.io/badge/LinkedIn-alexanderosorioanalytics-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/alexanderosorioanalytics)
 
               halexoh@gmail.com
+              [![HackerRank](https://img.shields.io/badge/HackerRank-SQL_Intermediate-2EC866?style=flat&logo=hackerrank)](https://www.hackerrank.com/certificates/0EED0848B0D2)
